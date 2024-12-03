@@ -1,4 +1,4 @@
-import votermanager
+'''import votermanager
 def main():
     name=input("What is your name? ")
     age=input("What is your age? ")
@@ -10,3 +10,4 @@ def main():
     print('Your Name',y.name)
     print("Your Age",y.age)
     print("Yout IIT no",iitNumber)
+'''
